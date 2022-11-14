@@ -1,4 +1,5 @@
 # FetchExpenseAndRewards
+This notebook contains Fetch expense and rewards data from January 2022 to September 2022. My analysis will show which month/(s) exceeds the monthly budget set at 900, correlation between expenses and rewards earned, expenses by category, by store and by month as well as by specific store. The five (5) required features are referenced throughout the notebook.
 
 ### Packages that need to be installed to run this project
 Download the latest version of python from https://www.python.org/downloads/ and follow the recommended steps
@@ -34,7 +35,7 @@ Feature 2.1. Use built-in pandas functions to remove 0’s, where they don’t b
 Feature 2.2. Formatting the date.
 Feature 3. Calculations with Pandas, like finding the sum(), mean(), count(), max(), min() of a column. 
            I calculated average and rounded the result to display 2 decimal points.
-Feature 4. Made 3 basic plots with matplotlib to visualize my data.
+Feature 4. Made 3 basic plots with matplotlib to visualize my data (bar, line and pie).
 Feature 5. Added Markdowns on JupyterNotebook and description of the graphs from matplotlib.
 
 
